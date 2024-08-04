@@ -1,0 +1,13 @@
+filename = 'wthit-quilt-8.13.3.jar'
+name = 'WTHIT'
+side = 'both'
+
+[download]
+hash = '43088bf746077ee3fff09fe7b544fb29a12e01f865126b6aedf6fb32fe32bf74e591233cfe5b846161d4a8566c78012677061e6ed9f69f9833bca3bfd7059ead'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6AQIaxuO/versions/MlrKFAFn/wthit-quilt-8.13.3.jar'
+
+[update.modrinth]
+mod-id = '6AQIaxuO'
+version = 'MlrKFAFn'

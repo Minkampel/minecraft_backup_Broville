@@ -1,0 +1,13 @@
+filename = 'polypuck-1.2.0.jar'
+name = 'PolyPuck'
+side = 'both'
+
+[download]
+hash = '117de811fa26ead3d2157fa1dd6552dd6c2a5a991bc0e4fe9b7d35d409ae2dc9de7474fff644d31406a71e49a565f68ede06d2dc33dd3b42474940ac31871d41'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/bipQXQml/versions/1.2.0/polypuck-1.2.0.jar'
+
+[update.modrinth]
+mod-id = 'bipQXQml'
+version = 'eA6qZ6rj'

@@ -1,0 +1,13 @@
+filename = 'letsdoajumpscare-1.1+1.20.2.jar'
+name = "Let's do a jumpscare"
+side = 'client'
+
+[download]
+hash = '46b715bcd76fa8f43620d00a1168be3f80c9785a8b70fddf3fb0510db3f4f4727110f7a57934b89ae100336882f4971caf11fd3707c5e7ca3ef6f723152db22c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/IBWZnRBJ/versions/hOxPlyDq/letsdoajumpscare-1.1%2B1.20.2.jar'
+
+[update.modrinth]
+mod-id = 'IBWZnRBJ'
+version = 'hOxPlyDq'
