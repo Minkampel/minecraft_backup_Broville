@@ -1,0 +1,13 @@
+filename = 'resourcefullib-fabric-1.20.1-2.1.28.jar'
+name = 'Resourceful Lib'
+side = 'both'
+
+[download]
+hash = 'a5d7f9bcf65f887edab1e2fc1ebca800b2c91ea7df628ed4ea37a4b16abd763d27e7628f97756c326b882984b45efaa4ab63ee8391eb39bc15a0cf7bebb4bb05'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/G1hIVOrD/versions/4u04iwUx/resourcefullib-fabric-1.20.1-2.1.28.jar'
+
+[update.modrinth]
+mod-id = 'G1hIVOrD'
+version = '4u04iwUx'

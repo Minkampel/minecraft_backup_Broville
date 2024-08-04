@@ -1,0 +1,13 @@
+filename = 'EndGrief-1.1.4+1.20.2.jar'
+name = 'EndGrief'
+side = 'server'
+
+[download]
+hash = 'c685d84f510d7986ff4788339e04117908c936d52a59e62063d3f97a26a477c63abb102a1a084ef2c8cca4be939018c1f99d6c6014b3dbb958d575d53ea0774d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/VJGFMAcP/versions/gZOUimQ1/EndGrief-1.1.4%2B1.20.2.jar'
+
+[update.modrinth]
+mod-id = 'VJGFMAcP'
+version = 'gZOUimQ1'

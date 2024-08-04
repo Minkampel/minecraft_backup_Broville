@@ -1,0 +1,13 @@
+filename = 'searchable-0.2.3+1.20.1.jar'
+name = 'Searchable'
+side = 'client'
+
+[download]
+hash = '0c8065147a80c6d9a1f6c3707581c5bbf0b33fb11854829dfdeb950768259dfd8fbc3dd57f1ab52e8419dd8df7a8002f9e9c35a7a97f7b622bae9860d1328815'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/48eQJs3v/versions/B2IJJhQ0/searchable-0.2.3%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = '48eQJs3v'
+version = 'B2IJJhQ0'
