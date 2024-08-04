@@ -1,0 +1,79 @@
+# Whether a button to open Searchable's config screen should be added next to search boxes added or modified by Searchable.
+# default: true
+show_config_button = true
+# Whether the latest selected option should remain selected after being hidden and later unhidden due to search query changes.
+# default: true
+reselect_last_selection = true
+# Whether the text that matches a search query should be highlighted.
+# default: true
+highlight_matches = true
+# default: false
+use_regex_matching = false
+
+[searchable_config_screen]
+	# Whether config option technical names should be shown under their titles.
+	# default: false
+	show_technical_names = false
+	# Whether config category names should be searched for matching text during a search.
+	# default: true
+	match_categories = true
+	# Whether config option or category descriptions should be searched for matching text during a search.
+	# default: false
+	match_descriptions = false
+	# Whether config option technical names should be searched for matching text during a search.
+	# default: false
+	match_technical_names = false
+
+[keybinds_screen]
+	# default: true
+	add_search = true
+	# Whether key bind category names should be searched for matching text during a search.
+	# default: true
+	match_categories = true
+	# Whether the keys bound to their respective key binds should be searched for matching text during a search.
+	# default: true
+	match_bound_keys = true
+
+[language_screen]
+	# default: true
+	add_search = true
+
+# The multiplayer server selection screen.
+[select_server_screen]
+	# default: true
+	add_search = true
+	# Whether server descriptions should be searched for matching text during a search.
+	# default: true
+	match_motds = true
+
+# The singleplayer world selection screen.
+[select_world_screen]
+	# Whether world details should be searched for matching text during a search.
+	# default: false
+	match_world_details = false
+
+# The game rules editing screen, used during world creation.
+[edit_gamerules_screen]
+	# default: true
+	add_search = true
+	# Whether game rule technical names should be shown under their titles.
+	# default: false
+	show_technical_names = false
+	# Whether game rule category names should be searched for matching text during a search.
+	# default: true
+	match_categories = true
+	# Whether game rule descriptions should be searched for matching text during a search.
+	# default: false
+	match_descriptions = false
+	# Whether game rule technical names should be searched for matching text during a search.
+	# default: true
+	match_technical_names = true
+
+# The select resource packs and select data packs screens.
+[select_packs_screen]
+	# default: true
+	add_search = true
+	# Whether resource pack and data pack descriptions should be searched for matching text during a search.
+	# default: true
+	match_descriptions = true
+

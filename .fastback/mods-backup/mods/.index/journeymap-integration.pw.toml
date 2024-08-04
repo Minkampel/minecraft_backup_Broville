@@ -1,0 +1,13 @@
+filename = 'jmi-fabric-1.20.1-0.14-48.jar'
+name = 'JourneyMap Integration'
+side = 'client'
+
+[download]
+hash = 'e1bc9bd6a85e8edf24489e9396f6c8b18be8c336fb38178e4c737205b31fece63554c0c471c7f68951c8510a255223aced06fece3216da31fd15c6a33606b715'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/M1ZKbfkJ/versions/DBfyewqk/jmi-fabric-1.20.1-0.14-48.jar'
+
+[update.modrinth]
+mod-id = 'M1ZKbfkJ'
+version = 'DBfyewqk'

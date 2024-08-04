@@ -1,0 +1,13 @@
+filename = 'essential_1-3-2-8_fabric_1-20-1.jar'
+name = 'Essential Mod'
+side = 'client'
+
+[download]
+hash = '02f11d853412436e032f6471e08de848e3ece9b948bcdcd39a2b8c4eed25326e90c0ea1375ddf9a9bffc8731cc214495bcc5b890315967f676ed5cf90e208d1e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/k2ZPuTBm/versions/AzyVbLH2/essential_1-3-2-8_fabric_1-20-1.jar'
+
+[update.modrinth]
+mod-id = 'k2ZPuTBm'
+version = 'AzyVbLH2'

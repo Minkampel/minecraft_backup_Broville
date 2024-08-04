@@ -1,0 +1,55 @@
+
+#.
+#Realism, what's that?
+[trains]
+	#.
+	#Whether to check for valid placement when placing train tracks
+	#Allowed Values: ON, SURVIVAL_ONLY, OFF
+	placementChecks = "SURVIVAL_ONLY"
+	#.
+	#The minimum turn that trains can drive on. Set to 0.01 if buggy.
+	#Range: 0.0 ~ 0.875
+	extendedDriving = 0.875
+	#.
+	#Maximum distance a train can be relocated using the wrench.
+	#Range: 0.0 ~ 3.4028234663852886E38
+	maxTrainRelocationDistance = 24.0
+	#.
+	#Maximum stress from couplings before train derails. Set to -1 to disable stress completely.
+	#Range: -1.0 ~ 3.4028234663852886E38
+	maxAllowedStress = 0.5
+	#.
+	#Whether to check for valid assembly when placing train tracks
+	trainAssemblyChecks = false
+	#.
+	#Maximum distance a track-targeting block can be placed away from a track.
+	#Range: 0.0 ~ 3.4028234663852886E38
+	maxTrackBlockPlacingDistance = 16.0
+
+#.
+#Stick anything together!
+[glue]
+	#.
+	#Maximum distance between two blocks for them to be considered for glue connections.
+	#Range: 0.0 ~ 3.4028234663852886E38
+	maxGlueConnectionRange = 24.0
+
+#.
+#Extend even more!
+[extendo]
+	#.
+	#How much to extend your reach when holding an Extendo-Grip. Adds to your base reach.
+	#Range: > 0
+	singleExtendoGripRange = 3
+	#.
+	#How much to extend your reach when holding two Extendo-Grips. Adds to your base reach.
+	#Range: > 0
+	doubleExtendoGripRange = 5
+
+#.
+#Everything else
+[misc]
+	#.
+	#Whether or not to allow all blocks to be inserted into Copycat blocks.
+	allowAllCopycatBlocks = true
+

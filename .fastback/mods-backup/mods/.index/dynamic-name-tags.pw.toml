@@ -1,0 +1,13 @@
+filename = 'dynamicnametags-1.0.0.jar'
+name = 'Dynamic Name Tags'
+side = 'client'
+
+[download]
+hash = '22cd8973a5d3c79ad970fc31afdf7ff2085b5b98a63ff2e3f0e5b2fc47d077b0011e7e410737020a3c9f1472028bbcf66e7867a3ed568c4e6dfb8b9623032a28'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fvuBCsyX/versions/OqIkYkhb/dynamicnametags-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'fvuBCsyX'
+version = 'OqIkYkhb'

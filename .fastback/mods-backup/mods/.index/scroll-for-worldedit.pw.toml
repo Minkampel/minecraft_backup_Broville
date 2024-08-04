@@ -1,0 +1,13 @@
+filename = 'scroll-for-worldedit-1.1.4.jar'
+name = 'Scroll for WorldEdit'
+side = 'both'
+
+[download]
+hash = 'e2bfd5680c2f15c8b3c7027108695fa4e719371a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4670308
+project-id = 787587
